@@ -7,4 +7,4 @@ This is a personal blog. Please click here 💁‍♂ [Lin's Blog](https://Lin-Q
 
 * Github pages with Hugo
 
-* Hugo Theme ["LoveIt"](https://hugoloveit.com/)
+* Hugo Theme ["LoveIt"](https://hugoloveit.com/):heart:
